@@ -31,4 +31,12 @@ export const products = [
     price: "₹15,000",
     image: "/images/anklets.jpg",
   },
+  {
+    id: 5,
+    name: "Nose Pins",
+    weight: "3.2g",
+    category: "mixed",
+    price: "₹15,000",
+    image: "/images/nosepins.jpg",
+  },
 ];
